@@ -5,7 +5,7 @@ Flash using Arduino
 
 You can compile a .bin file in Arduino and load onto your microSD card and install with M5Launcher
 
-- added clock to ststus bar
+- added clock to status bar
 - added comments field
 - limited to 20 spots as more caused issues
 
