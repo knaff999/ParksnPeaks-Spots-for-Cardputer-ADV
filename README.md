@@ -1,4 +1,6 @@
 # ParksnPeaks-Spots-for-Cardputer-ADV
 Get your spots direct to your Cardputer
 
-Flash using Arduino or load the bin file onto your microSD card and install with M5Launcher
+Flash using Arduino or load the .bin file onto your microSD card and install with M5Launcher
+
+<img width="640" height="480" alt="IMG_0235" src="https://github.com/user-attachments/assets/99baff16-d985-4220-a4f6-212ffbf5c254" />
