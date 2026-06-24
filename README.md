@@ -1,7 +1,7 @@
 # ParksnPeaks-Spots-for-Cardputer-ADV
 Get your spots direct to your Cardputer
 
-Flash using Arduino, dont's forget to put your wifi details in.
+Flash using Arduino, don't forget to put your wifi details in.
 
 You can compile a .bin file in Arduino and load onto your microSD card and install with M5Launcher
 
